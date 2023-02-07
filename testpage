@@ -1,0 +1,84 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Progate</title>
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+
+  <body>
+    <header>
+
+      <div class="logo">Progate</div>
+      <div class="header_list">
+        <ul>
+          <li>プログラミングとは</li>
+          <li>学べるレッスン</li>
+          <li>その他</li>
+        </ul>
+      </div>
+
+    </header>
+
+
+    <main>
+
+      <section class="titleArea">
+        <div class="copyArea">
+          <h2>HELLO WORLD<span>.</span></h2>
+          <h4>プログラミングの世界へようこそ</h4>
+        </div>
+        
+
+      </section class="lessonArea">
+        <div class="title">学べるレッスン</div>
+
+        <div class="imagezone">
+
+          <img src="" alt="" />
+          <p>HTML＆CSS</p>
+          <img src="" alt="" />
+          <p>PHP</p>
+          <img src="" alt="" />
+          <p>Ruby</p>
+          <img src="" alt="" />
+          <p>Swift</p>
+
+        </div>
+
+
+      <section class="question">
+        <div class="title">お問合せ</div>
+
+        <form>
+          
+          <label>メールアドレス</label> <br />
+          <input type="email" /> <br />
+          <label>お問合せ内容</label> <br />
+          <input type="textarea" /> <br />
+          <label>※必須項目は必ずご入力ください</label> <br />
+          <input type="submit" value="送信" />
+
+        </form>
+        
+      </section>
+
+    </main>
+
+
+    <footer>
+
+      <address>
+        <ul>
+          <li>会社名：Progate</li>
+          <li>代表：篠原孝弘</li>
+          <li>電話番号：09032133247</li>
+        </ul>
+      </address>
+
+    </footer>
+    
+  </body>
+
+</html>
